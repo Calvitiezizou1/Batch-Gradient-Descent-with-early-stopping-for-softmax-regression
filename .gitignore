@@ -1,21 +1,16 @@
-# --- Python Bytecode (Le plus important !) ---
 __pycache__/
 *.pyc
 
-# --- Environnements Virtuels (Tes librairies) ---
-# Si tu as créé un venv, on ne l'envoie jamais.
+
 venv/
 env/
 .venv/
 .env
 
-# --- IDE (Configuration de ton éditeur) ---
 .vscode/
 .idea/
 
-# --- Fichiers Système (Mac / Windows) ---
 .DS_Store
 Thumbs.db
 
-# --- Jupyter Notebooks (Si tu en utilises) ---
 .ipynb_checkpoints/
